@@ -1,5 +1,14 @@
 public class login {
     public static void main(String[] args) {
         System.out.println("hello");
+        int number=3;
+        String foodType="Pizza";
+
+
+
+
+        //this is for trial reason
+        //First try
+
     }
 }
